@@ -41,15 +41,15 @@
 .header {
     display: flex;
     align-items: center;
-    color: #fff;
+    color: #000000;
     justify-content: center;
     padding: 0px 16px 5px 16px;
-    background-color: #131921;
+    background-color: #ffffff;
     font-family: 'Ama';
 }
 
 .subheader {
-    background-color: #131921;
+    background-color: #f0f0f0;
     height: 50px;
     color: #fff;
     font-family: 'Arial';
@@ -70,7 +70,7 @@
 }
 
 .timer__title {
-    color: #fff;
+    color: #000000;
     margin-right: 10px;
     font-weight: 600;
 }
@@ -354,7 +354,7 @@
     width: 100%;
     margin-bottom: 0.5rem;
     color: rgb(255, 255, 255);
-    background-color: #131921;
+    background-color: #eb0203;
     font-family: 'Ubuntu', Verdana, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Cantarell', 'Helvetica Neue', sans-serif;
     min-width: 3.5rem;
     min-height: 3rem;
@@ -442,6 +442,7 @@
     width: 3.25rem;
     flex-shrink: 0;
     margin: 0 auto;
+    display: none;
 }
 
 .notification__info {
@@ -451,7 +452,7 @@
 .notification__title {
     font-size: 1.1rem;
     font-weight: 500;
-    color: rgb(19, 64, 148);
+    color: rgb(255, 0, 0);
 }
 
 .notification__subtitle {
@@ -543,7 +544,7 @@
     text-indent: -9999px;
     border-width: 12px;
     border-style: solid;
-    border-color: rgb(191, 214, 49) rgba(40, 50, 90, 0.15) rgba(40, 50, 90, 0.15);
+    border-color: rgb(255, 0, 0) rgba(40, 50, 90, 0.15) rgba(40, 50, 90, 0.15);
     -o-border-image: initial;
        border-image: initial;
 }
@@ -771,7 +772,7 @@
 .modal__button {
     display: inline-block;
     box-shadow: rgb(140 212 245 / 80%) 0 0 2px, rgb(0 0 0 / 5%) 0 0 0 1px inset;
-    background-color: #131921;
+    background-color: rgb(255,0,0);
     color: white;
     border: 0;
     box-shadow: none;
