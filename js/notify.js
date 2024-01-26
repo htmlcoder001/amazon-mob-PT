@@ -42,7 +42,7 @@ class Notify {
 
             <div class="notification__subtitle">\n
 
-              <span>${getRandomNumber(10, 59)} hace segundos</span>\n
+              <span>${getRandomNumber(10, 59)} segundos atrás</span>\n
 
               <img class="notification__checkmark" src="./assets/notification-ok.svg" alt="">\n
 
@@ -94,7 +94,7 @@ const prodName = "Iphone 15 Pro";
 
 const data = [
 	{
-		name: "Carlos Cruz",
+		name: "Francisco Oliveira",
 
 		address: "Portugal",
 
@@ -104,7 +104,7 @@ const data = [
 	},
 
 	{
-		name: "Juan Rodriguez",
+		name: "Manuel Ribeiro",
 
 		address: "Portugal",
 
@@ -114,7 +114,7 @@ const data = [
 	},
 
 	{
-		name: "Luis Torres",
+		name: "Luís Rodrigues",
 
 		address: "Portugal",
 
@@ -124,7 +124,7 @@ const data = [
 	},
 
 	{
-		name: "Miguel Ortiz",
+		name: "João Lopes",
 
 		address: "Portugal",
 
@@ -134,7 +134,7 @@ const data = [
 	},
 
 	{
-		name: "José Sánchez",
+		name: "António Nunes",
 
 		address: "Portugal",
 
