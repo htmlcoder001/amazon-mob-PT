@@ -36,7 +36,7 @@ class Notify {
 
             <div class="notification__title">\n
 
-            ganado ${e}\n
+            ganhou ${e}\n
 
             </div>\n
 
@@ -94,7 +94,7 @@ const prodName = "Iphone 15 Pro";
 
 const data = [
 	{
-		name: "Francisco Oliveira",
+		name: "Lourenço Almeida",
 
 		address: "Portugal",
 
@@ -104,7 +104,7 @@ const data = [
 	},
 
 	{
-		name: "Manuel Ribeiro",
+		name: "Fernando Noronha",
 
 		address: "Portugal",
 
@@ -114,7 +114,7 @@ const data = [
 	},
 
 	{
-		name: "Luís Rodrigues",
+		name: "Carlos Roberto Moreira",
 
 		address: "Portugal",
 
@@ -124,7 +124,7 @@ const data = [
 	},
 
 	{
-		name: "João Lopes",
+		name: "Pedro Cardoso",
 
 		address: "Portugal",
 
@@ -134,7 +134,7 @@ const data = [
 	},
 
 	{
-		name: "António Nunes",
+		name: "Afonso Silva Ponte",
 
 		address: "Portugal",
 
